@@ -1,1 +1,11 @@
 Working session of github,learning how to use github
+<<<<<<< HEAD
+=======
+--prathap cheges before user commit
+
+
+when you want pull your code
+1.git stash
+2.git pull origin branchname
+3.git stash apply
+>>>>>>> 4353e0473553dbb8719dc18c94816d973d04172b
